@@ -12,6 +12,8 @@ namespace QuintoGitHub
         {
             Console.WriteLine("Biennvenido a GITHUB");
             Console.ReadKey();
+            Console.WriteLine("Mensaje Dos");
+
 
         }
     }
